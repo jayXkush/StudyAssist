@@ -1,4 +1,4 @@
-# AI Learning Assistant: RAG-based Study Companion
+# StudyAssist : RAG-based Study Companion
 
 ## Overview
 A Streamlit-powered RAG (Retrieval-Augmented Generation) application that helps you study PDF documents through intelligent conversations, summaries, and flashcard generation. Upload your study materials and chat with an AI tutor that understands your content.
